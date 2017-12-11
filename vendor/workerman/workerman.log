@@ -1,0 +1,7 @@
+2017-12-10 20:06:53 pid:23512 Workerman[lianjia.php] start in DAEMON mode
+2017-12-10 20:06:58 pid:23519 Worker process terminated
+2017-12-10 20:07:01 pid:23535 Workerman[lianjia.php] stop 
+2017-12-10 20:07:01 pid:23535 Workerman[lianjia.php] is stoping ...
+2017-12-10 20:07:01 pid:23514 Workerman[lianjia.php] stopping ...
+2017-12-10 20:07:01 pid:23514 Workerman[lianjia.php] has been stopped
+2017-12-10 20:07:01 pid:23535 Workerman[lianjia.php] stop success
